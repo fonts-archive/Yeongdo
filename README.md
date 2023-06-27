@@ -1,4 +1,4 @@
-# Yeongdo
+# Yeongdo
 
 [Visit Source](http://ydct.or.kr/artcity/about/)
 
